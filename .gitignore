@@ -1,0 +1,5 @@
+venv/
+gcp/venv3/
+*.pyd
+*.lib
+*.dll
