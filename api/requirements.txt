@@ -1,0 +1,16 @@
+# # tensorflow==2.15.0
+# fastapi
+# uvicorn
+# python-multipart
+# pillow
+# # tensorflow-serving-api==2.10.0
+# matplotlib
+# numpy
+
+tensorflow==2.15.0
+fastapi==0.100.0
+uvicorn==0.23.2
+python-multipart==0.0.6
+pillow==10.2.0
+matplotlib==3.7.5
+numpy==1.26.4
