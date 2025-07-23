@@ -97,18 +97,19 @@ gcloud functions deploy predict \
 
 ---
 ## 5. Tech_Stack:
-  Backend:
+
+ - Backend:
     - Flask (Local)
     - Google Cloud Functions (Production)
-  Frontend:
+ - Frontend:
     - React (JavaScript)
-  Machine_Learning:
+ - Machine_Learning:
     - TensorFlow
     - Pillow
     - NumPy
-  Deployment:
+ - Deployment:
     - Google Cloud Functions
-  Tools:
+ - Tools:
     - Git
     - GitHub
 
@@ -120,9 +121,9 @@ gcloud functions deploy predict \
   - Clean separation between frontend and backend
 
 ## Author:
-  Name: Om
-  Role: AI Developer & ML Enthusiast
-  GitHub: https://github.com/pinocchio02
+  - Name: Om
+  - Role: AI Developer & ML Enthusiast
+  - GitHub: https://github.com/pinocchio02
 
 
 
